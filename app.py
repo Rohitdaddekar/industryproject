@@ -1,5 +1,7 @@
 print("Hello")
 print("Rohit")
 print("new")
+print("again new")
+print("again new 2")
 print("Rohit Daddekar")
 print("Today is friday")
